@@ -1,0 +1,15 @@
+# Cryptographic key material 
+*.key
+*.crt
+*.pem
+*.ovpn
+*.p12
+*.pfx
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+.vscode/
