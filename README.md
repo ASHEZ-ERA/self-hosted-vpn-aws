@@ -154,5 +154,5 @@ See `server.conf` for the full server configuration and `docs/` for a complete v
 
 ---
 
-*Project completed as part of the AWS re/Start Program — March 2026*
+*Project completed— March 2026*
 *Author: Dawood Ashraf*
